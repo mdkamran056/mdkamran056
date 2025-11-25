@@ -3,23 +3,18 @@
 ## 🚀 About Me
 - 💻 Web Developer | Frontend Enthusiast
 - 🎓 Currently learning: JavaScript, React, etc.
-- 📍 Location: [Apna city/state]
+- 📍 Location: [Patna/Bihar]
 - 🌱 Interested in: Web Development, UI/UX Design
 
 ## 🛠️ Skills & Technologies
 - **Languages**: HTML, CSS, JavaScript
-- **Frameworks**: [Agar koi framework use karte ho]
+- **Frameworks**: []
 - **Tools**: Git, GitHub, VS Code
 
 ## 📂 Featured Projects
-- 🔗 [kamran.github.io](https://github.com/mdkamran056/kamran.github.io) - Personal Portfolio Website
-- 🔗 [my-portfolio](https://github.com/mdkamran056/my-portfolio) - Portfolio Project
-- 🔗 [Royal-Enfield](https://github.com/mdkamran056/Royal-Enfield) - Royal Enfield Website Clone
-
-## 📫 Connect with Me
-- 📧 Email: [Apna email]
-- 💼 LinkedIn: []
-- 🌐 Portfolio: [portfolio-kamran056.netlify.app]
+- 🔗 [kamran.github.io](https://github.com/mdkamran056/kamran.github.io/) - Personal Portfolio Website
+- 🔗 [my-portfolio](https://github.com/mdkamran056/my-portfolio/) - Portfolio Project
+- 🔗 [Royal-Enfield](https://github.com/mdkamran056/Royal-Enfield/) - Royal Enfield Website Clone
 
 ## 📊 GitHub Stats
 ![Md Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdkamran056&show_icons=true&theme=dark)
