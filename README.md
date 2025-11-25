@@ -12,9 +12,8 @@
 - **Tools**: Git, GitHub, VS Code
 
 ## 📂 Featured Projects
-- 🔗 [kamran.github.io](https://github.com/mdkamran056/kamran.github.io/) - Personal Portfolio Website
-- 🔗 [my-portfolio](https://github.com/mdkamran056/my-portfolio/) - Portfolio Project
-- 🔗 [Royal-Enfield](https://github.com/mdkamran056/Royal-Enfield/) - Royal Enfield Website Clone
+- 🔗 [my-portfolio](https://mdkamran056.github.io/my-portfolio/) - Personla- Portfolio
+- 🔗 [Royal-Enfield](https://mdkamran056.github.io/Royal-Enfield/) - Royal Enfield Website Clone
 
 ## 📊 GitHub Stats
 ![Md Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdkamran056&show_icons=true&theme=dark)
