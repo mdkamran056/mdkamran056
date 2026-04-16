@@ -14,7 +14,7 @@
 - 🌱 Interested in: Web Development, UI/UX Design
 
 ## 🛠️ Skills & Technologies
-- **Languages**: HTML, CSS, JavaScript
+- **Languages**: HTML, CSS, JavaScript Java ☕
 - **Frameworks**: []
 - **Tools**: Git, GitHub, VS Code
 
