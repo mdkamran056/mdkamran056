@@ -19,7 +19,7 @@
 - **Tools**: Git, GitHub, VS Code
 
 ## 📂 Featured Projects
-- 🔗 [my-portfolio](https://mdkamran056.github.io/my-portfolio/) - Personla- Portfolio
+- 🔗 [my-portfolio](https://new-portfolio-kamran.netlify.app) - Personla- Portfolio
 - 🔗 [Royal-Enfield](https://mdkamran056.github.io/Royal-Enfield/) - Royal Enfield Website Clone
 
 ## 📊 GitHub Stats
