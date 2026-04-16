@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" alt="Banner" width="100%"/>
-</p>
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/e06431e9-c5f4-485d-ad91-5c455273dd8f" />
 
+ 
+</p>
 
 
 
@@ -14,13 +15,13 @@
 - 🌱 Interested in: Web Development, UI/UX Design
 
 ## 🛠️ Skills & Technologies
-- **Languages**: HTML, CSS, JavaScript Java ☕
+- **Languages**: HTML, CSS, JavaScript,Java☕,Python🐍
 - **Frameworks**: []
 - **Tools**: Git, GitHub, VS Code
 
 ## 📂 Featured Projects
-- 🔗 [my-portfolio](https://new-portfolio-kamran.netlify.app) - Personla- Portfolio
-- 🔗 [Royal-Enfield](https://mdkamran056.github.io/Royal-Enfield/) - Royal Enfield Website Clone
+- 🔗 [my-portfolio](https://newportfolio-kamran.netlify.app/) MY-PORTFOLIO
+- 🔗 [Royal-Enfield](https://mdkamran056.github.io/Royal-Enfield/) - Royal Enfield GT-650 Mobassir Friend.
 
 ## 📊 GitHub Stats
 ![Md Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdkamran056&show_icons=true&theme=dark)
